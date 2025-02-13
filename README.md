@@ -1,4 +1,4 @@
----
+
 
 <p align="center">  
   <strong>PENGUNJUNG</strong>  
@@ -13,17 +13,18 @@
 Sebelum melakukan encoding atau kompilasi kode Python, pastikan struktur program sudah sesuai agar dapat terdeteksi oleh Cython.
 
 ❌ Sebelum (tidak terdeteksi Cython):
-
-if __name__ == "__main__":
-    main()
-
-✅ Sesudah (terdeteksi oleh Cython):
-
+```
 def main():
     print("Masuk")
-
+if __name__ == "__main__":
+    main()
+```
+✅ Sesudah (terdeteksi oleh Cython):
+```
+def main():
+    print("Masuk")
 main()
-
+```
 🔍 Contoh Sebelum dan Sesudah
 
 <p align="center">  
@@ -40,6 +41,7 @@ main()
 
 Untuk menginstal dan menjalankan script encode ini, ikuti langkah-langkah berikut:
 
+```sh
 pkg install git -y
 pip install requests
 pip install cython
@@ -48,6 +50,7 @@ pip install pycryptodome
 git clone https://github.com/FIRandZAH/Compile
 cd Compile
 python compile.py
+```
 
 🤝 Hubungi Saya
 
