@@ -12,6 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=31FF9400&width=435&lines=Script+compile+atau+enc+Code+Python)](https://git.io/typing-svg)
 
 - **note** sebelum di enc code nya, ubah dulu sistem main nya menjadi def biar kedetek cython.
+- **contoh** contoh foto di bawah ini.
 
 <br>
 <p align="center">
