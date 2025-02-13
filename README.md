@@ -9,9 +9,9 @@
   Script by: FIRZAH
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=31FF9400&width=435&lines=Script+Encode+dan+Decode+Code+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=31FF9400&width=435&lines=Script+compile+atau+enc+Code+Python)](https://git.io/typing-svg)
 
-## 🚀 Install and Run (Encryption)
+## 🚀 Install and Run
 
 Untuk menginstal dan menjalankan script encode ini, ikuti langkah-langkah berikut:
 
@@ -21,9 +21,9 @@ pip install requests
 pip install cython
 pip install setuptools
 pip install pycryptodome
-git clone https://github.com/FIRandZAH/encode
-cd encode
-python -c "import firzah_enc"
+git clone https://github.com/FIRandZAH/Compile
+cd Compile
+python compile.py
 ```
 
 <br>
