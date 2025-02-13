@@ -1,34 +1,57 @@
 
-<p align="center"> 
- PENGUNJUNG 
+<p align="center">  
+  **PENGUNJUNG**  
+  <br>  
+  <img src="https://profile-counter.glitch.me/FIRandZAH/count.svg" alt="Visitors">  
+</p>  <p align="center">  
+  **Script by: FIRZAH**  
+</p>  
 
- <img src="https://profile-counter.glitch.me/FIRandZAH/count.svg" alt="Visitors">
-</p>
+
+---
+
+⚠️ Catatan Sebelum Encode
+
+Sebelum melakukan encoding pada script Python, ubah struktur main menjadi fungsi def, agar dapat terdeteksi oleh Cython.
+
+✍ Contoh Sebelum Perubahan
+
+Kode awal tanpa fungsi def:
+
+print("Hello, World!")
+
+✅ Contoh Setelah Perubahan
+
+Kode yang sudah diubah menggunakan fungsi:
+
+def main():
+    print("Hello, World!")
+
+if __name__ == "__main__":
+    main()
+
+Setelah mengubah struktur script seperti di atas, baru bisa dilakukan encoding dengan metode yang disediakan.
+
+
+---
+
+📷 Contoh Screenshot
+
+Sebelum
 
 <p align="center">
-  Script by: FIRZAH
-</p>
+  <img src="foto.jpg" alt="Screenshot sebelum encode" width="400"/>
+</p>Sesudah
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=31FF9400&width=435&lines=Script+compile+atau+enc+Code+Python)](https://git.io/typing-svg)
-
-- **note** sebelum di enc code nya, ubah dulu sistem main nya menjadi def biar kedetek cython.
-- **contoh** foto di bawah ini.
-
-<br>
 <p align="center">
-  <img src="foto.jpg" alt="Screenshot" width="400"/>
+  <img src="foto1.jpg" alt="Screenshot sesudah encode" width="400"/>
 </p>
+---
 
-<br>
-<p align="center">
-  <img src="foto1.jpg" alt="Screenshot" width="400"/>
-</p>
-
-## 🚀 Install and Run
+🚀 Install dan Jalankan
 
 Untuk menginstal dan menjalankan script encode ini, ikuti langkah-langkah berikut:
 
-```sh
 pkg install git -y
 pip install requests
 pip install cython
@@ -37,13 +60,15 @@ pip install pycryptodome
 git clone https://github.com/FIRandZAH/Compile
 cd Compile
 python compile.py
-```
 
 
-##  🤝  Hubungi saya
+---
 
-Butuh bantuan atau ada pertanyaan?  Silakan hubungi saya melalui:
+🤝 Hubungi Saya
 
-* **WhatsApp:** https://wa.me/6283170597744
-* **Email:** [firzah48@gmail.com](mailto:firzah48@gmail.com) 
+Butuh bantuan atau ada pertanyaan? Silakan hubungi saya melalui:
+
+📱 WhatsApp: Klik di sini
+📧 Email: firzah48@gmail.com
+
 
