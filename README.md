@@ -11,6 +11,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=31FF9400&width=435&lines=Script+compile+atau+enc+Code+Python)](https://git.io/typing-svg)
 
+- **note** sebelum di enc code nya ubah dulu sistem main nya menjadi def biar kedetek cython.
+
+<br>
+<p align="center">
+  <img src="foto.jpg" alt="Screenshot" width="400"/>
+</p>
+
+<br>
+<p align="center">
+  <img src="foto1.jpg" alt="Screenshot" width="400"/>
+</p>
+
 ## 🚀 Install and Run
 
 Untuk menginstal dan menjalankan script encode ini, ikuti langkah-langkah berikut:
@@ -25,42 +37,6 @@ git clone https://github.com/FIRandZAH/Compile
 cd Compile
 python compile.py
 ```
-
-<br>
-<p align="center">
-  <img src="foto.jpg" alt="Screenshot" width="400"/>
-</p>
-
-## 🔐 Opsi 1: The Best Encryption
-
-Opsi 1 menggunakan kombinasi AES dan Cython untuk mengenkripsi file Python. File Python dienkripsi menggunakan AES, dan untuk menjalankan file yang sudah dienkripsi, diperlukan kunci AES. Kunci AES ini kemudian dienkripsi lagi menggunakan kombinasi Marshal, zlib, base, dan Cython untuk memberikan keamanan tambahan.
-- **kelebihan enc AES KEY cython dari cython biasa**
-- **1** codingan python tidak perlu rapih.
-- **2** bisa berapapun ukuran file python.
-## 🚀 Install and Run (Decode)
-
-Untuk menginstal dan menjalankan script decode ini, ikuti langkah-langkah berikut:
-
-```sh
-pkg install git -y
-git clone https://github.com/FIRandZAH/encode
-cd encode
-chmod +x dec
-./dec
-```
-
-<br>
-<p align="center">
-  <img src="foto1.jpg" alt="Screenshot" width="400"/>
-</p>
-
-## 🔧 Fitur :
-
-- **1. Decode Marshal.zlib.base dan lainnya:** Untuk mendekripsi enkripsi kombinasi seperti Marshal.zlib.base.lzma dan lainnya.
-- **2. Decode base/zlib/emote:** Untuk mendekripsi enkripsi tunggal seperti base/zlib/emote kecuali Marshal.
-- **3. Decode pyc:** Untuk mendekripsi file .pyc.
-- **4. Decode simpel embran:** Untuk mendekripsi skrip yang di enc menggunakan simpel embran.
-- **5. AES KEY:** Untuk mendekripsi skrip yang di enc AES key cython file utama .txt di perlukan key yang di pake enc.
 
 
 ##  🤝  Hubungi saya
