@@ -1,54 +1,42 @@
-
-<p align="center">  
-  **PENGUNJUNG**  
-  <br>  
-  <img src="https://profile-counter.glitch.me/FIRandZAH/count.svg" alt="Visitors">  
-</p>  <p align="center">  
-  **Script by: FIRZAH**  
-</p>  
-
-
 ---
 
-⚠️ Catatan Sebelum Encode
+<p align="center">  
+  <strong>PENGUNJUNG</strong>  
+</p>  <p align="center">  
+  <img src="https://profile-counter.glitch.me/FIRandZAH/count.svg" alt="Visitors">  
+</p>  <p align="center">  
+  <strong>Script by: FIRZAH</strong>  
+</p>  
 
-Sebelum melakukan encoding pada script Python, ubah struktur main menjadi fungsi def, agar dapat terdeteksi oleh Cython.
+📌 Catatan Penting
 
-✍ Contoh Sebelum Perubahan
+Sebelum melakukan encoding atau kompilasi kode Python, pastikan struktur program sudah sesuai agar dapat terdeteksi oleh Cython.
 
-Kode awal tanpa fungsi def:
-
-print("Hello, World!")
-
-✅ Contoh Setelah Perubahan
-
-Kode yang sudah diubah menggunakan fungsi:
-
-def main():
-    print("Hello, World!")
+❌ Sebelum (tidak terdeteksi Cython):
 
 if __name__ == "__main__":
     main()
 
-Setelah mengubah struktur script seperti di atas, baru bisa dilakukan encoding dengan metode yang disediakan.
+✅ Sesudah (terdeteksi oleh Cython):
 
+def main():
+    print("Masuk")
 
----
+main()
 
-📷 Contoh Screenshot
+🔍 Contoh Sebelum dan Sesudah
 
-Sebelum
-
-<p align="center">
-  <img src="foto.jpg" alt="Screenshot sebelum encode" width="400"/>
-</p>Sesudah
-
-<p align="center">
-  <img src="foto1.jpg" alt="Screenshot sesudah encode" width="400"/>
-</p>
----
-
-🚀 Install dan Jalankan
+<p align="center">  
+  <strong>Sebelum Perubahan</strong>  
+</p>  
+<p align="center">  
+  <img src="foto.jpg" alt="Screenshot Sebelum" width="400"/>  
+</p>  <p align="center">  
+  <strong>Sesudah Perubahan</strong>  
+</p>  
+<p align="center">  
+  <img src="foto1.jpg" alt="Screenshot Sesudah" width="400"/>  
+</p>  🚀 Install dan Jalankan
 
 Untuk menginstal dan menjalankan script encode ini, ikuti langkah-langkah berikut:
 
@@ -61,14 +49,12 @@ git clone https://github.com/FIRandZAH/Compile
 cd Compile
 python compile.py
 
-
----
-
 🤝 Hubungi Saya
 
 Butuh bantuan atau ada pertanyaan? Silakan hubungi saya melalui:
 
-📱 WhatsApp: Klik di sini
-📧 Email: firzah48@gmail.com
+WhatsApp: Klik di sini
+
+Email: firzah48@gmail.com
 
 
