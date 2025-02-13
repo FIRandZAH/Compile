@@ -1,16 +1,18 @@
 
+<p align="center"> 
+ PENGUNJUNG 
 
-<p align="center">  
-  <strong>PENGUNJUNG</strong>  
-</p>  <p align="center">  
-  <img src="https://profile-counter.glitch.me/FIRandZAH/count.svg" alt="Visitors">  
-</p>  <p align="center">  
-  <strong>Script by: FIRZAH</strong>  
-</p>  
+ <img src="https://profile-counter.glitch.me/FIRandZAH/count.svg" alt="Visitors">
+</p>
 
-📌 Catatan Penting
+<p align="center">
+  Script by: FIRZAH
+</p>
 
-Sebelum melakukan encoding atau kompilasi kode Python, pastikan struktur program sudah sesuai agar dapat terdeteksi oleh Cython.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=31FF9400&width=435&lines=Script+compile+atau+enc+Code+Python)](https://git.io/typing-svg)
+##📌 Catatan Penting
+
+Sebelum melakukan encoding atau kompilasi kode Python, sistem main sudah sesuai agar dapat terdeteksi oleh Cython.
 
 ❌ Sebelum (tidak terdeteksi Cython):
 ```py
@@ -37,7 +39,8 @@ main()
 </p>  
 <p align="center">  
   <img src="foto1.jpg" alt="Screenshot Sesudah" width="400"/>  
-</p>  🚀 Install dan Jalankan
+
+## 🚀 Install and Run
 
 Untuk menginstal dan menjalankan script encode ini, ikuti langkah-langkah berikut:
 
@@ -52,12 +55,10 @@ cd Compile
 python compile.py
 ```
 
-🤝 Hubungi Saya
 
-Butuh bantuan atau ada pertanyaan? Silakan hubungi saya melalui:
+##  🤝  Hubungi saya
 
-WhatsApp: Klik di sini
+Butuh bantuan atau ada pertanyaan?  Silakan hubungi saya melalui:
 
-Email: firzah48@gmail.com
-
-
+* **WhatsApp:** https://wa.me/6283170597744
+* **Email:** [firzah48@gmail.com](mailto:firzah48@gmail.com) 
