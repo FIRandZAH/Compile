@@ -13,14 +13,14 @@
 Sebelum melakukan encoding atau kompilasi kode Python, pastikan struktur program sudah sesuai agar dapat terdeteksi oleh Cython.
 
 ❌ Sebelum (tidak terdeteksi Cython):
-```
+```py
 def main():
     print("Masuk")
 if __name__ == "__main__":
     main()
 ```
 ✅ Sesudah (terdeteksi oleh Cython):
-```
+```py
 def main():
     print("Masuk")
 main()
