@@ -28,7 +28,7 @@ python compile.py
 
 <br>
 <p align="center">
-  <img src="enc.jpg" alt="Screenshot" width="400"/>
+  <img src="foto.jpg" alt="Screenshot" width="400"/>
 </p>
 
 ## 🔐 Opsi 1: The Best Encryption
@@ -51,7 +51,7 @@ chmod +x dec
 
 <br>
 <p align="center">
-  <img src="dec.jpg" alt="Screenshot" width="400"/>
+  <img src="foto1.jpg" alt="Screenshot" width="400"/>
 </p>
 
 ## 🔧 Fitur :
